@@ -1,5 +1,8 @@
-### Hi there 👋
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Angel+%F0%9F%91%8B;Web+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Electronic+Engineer+Student+%F0%9F%A4%96+)](https://git.io/typing-svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarevalo3108&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Aarevalo3108/Aarevalo3108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
