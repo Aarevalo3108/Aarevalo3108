@@ -17,7 +17,7 @@
 
 - A passionate newbe Full-stack developer
 - Currently learning Web Development in [Lexpin](https://lexpin.online)
-- Personal website [link](https://aarevalo3108.github.io/Portafolio/)
+- Personal website [link](https://aarevalo3108.github.io/NewPortafolio/)
 
 <br><br>
 
