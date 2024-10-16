@@ -15,8 +15,8 @@
 
 <br>
 
-- A passionate newbe Full-stack developer
-- Currently learning Web Development in [Lexpin](https://lexpin.online)
+- A passionate Full-stack developer
+- Currently learning Java and Django Rest Framework
 - Personal website [link](https://aarevalo3108.github.io/NewPortafolio/)
 
 <br><br>
